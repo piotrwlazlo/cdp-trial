@@ -1,2 +1,2 @@
-storageLocation = "storageLocation" #copy and paste values here from Trial Manager configuration
-username = "username" #copy and paste values here from Trial Manager configuration
+storageLocation = "s3a://asxnlfzex9ml/trial-cde-data" #copy and paste values here from Trial Manager configuration
+username = "csso_piotr_wlazlo" #copy and paste values here from Trial Manager configuration
